@@ -11,12 +11,6 @@ int main (){
     double TotalPrice = TeaPrice * teaQuantity ;  
 
     cout << TotalPrice << endl;
-    cout << TotalPrice << endl;
-    cout << TotalPrice << endl;
-    cout << TotalPrice << endl;
-    cout << TotalPrice << endl;
-    cout << TotalPrice << endl;
-    cout << TotalPrice << endl;
 
     return 0 ;
 }
